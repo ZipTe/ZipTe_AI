@@ -133,7 +133,3 @@ UI개발을 위한 라이브러리 styled-components 설치
 <br/>
 <br/>
 
-# 10. ERD
-![ERDV62](https://github.com/user-attachments/assets/2e260523-5524-4c9a-a8af-4675455614ab)
-
-
